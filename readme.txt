@@ -1,3 +1,8 @@
+
+https://awesome-angular.com/ebook/
+
+https://github.com/moumoune/ng6-pokemons-app
+
 ATFOUSE@REP6428P MINGW64 /c/workspaces/5Y5P0_github/pokemon-app (master)
 $ git add .
 
