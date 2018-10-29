@@ -7,7 +7,7 @@ ATFOUSE@REP6428P MINGW64 /c/workspaces/5Y5P0_github/pokemon-app (master)
 $ git add .
 
 ATFOUSE@REP6428P MINGW64 /c/workspaces/5Y5P0_github/pokemon-app (master)
-$ git commit -am 'création projet angular 6'
+$ git commit -am "création projet angular 6"
 [master (root-commit) 48a15f2] création projet angular 6
  2 files changed, 69 insertions(+)
  create mode 100644 bs-config.json
